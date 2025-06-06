@@ -1,4 +1,3 @@
-# About Me:
 Hi! I’m a passionate and versatile Full-Stack Developer, Python Developer, UX Designer, and Web Designer with a love for building seamless digital experiences from the ground up.<br><br>With a strong foundation in both front-end and back-end, I specialize in creating responsive, scalable, and user-centered websites and web applications. My approach combines clean code with thoughtful design to bring ideas to life in a way that’s not only functional but also visually engaging.<br><br>
 
 # 💻 Tech Stack:
