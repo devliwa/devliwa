@@ -5,12 +5,13 @@ Hi Everyone! I’m a versatile Full-Stack Developer, Python Developer, UX and We
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devliwa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### My Python Projects
 
 
-
-### ✍️ Random Dev Quote
+## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+### My Python Projects
+-[ 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
