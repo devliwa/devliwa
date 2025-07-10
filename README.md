@@ -1,3 +1,10 @@
+<div style="background-image: url('your-image-url.jpg'); background-size: cover; padding: 50px; color: white; text-align: center;">
+  <h1>DevLiwa</h1>
+  <p>A compelling description of your website.</p>
+  <a href="#" style="background-color: blue; color: white; padding: 10px 20px; text-decoration: none;">Learn More</a>
+</div>
+
+
 Hi Everyone! I’m a versatile Full-Stack Developer, Python Developer, UX and Web Designer. I build responsive, user-focused websites and apps that combine clean code with intuitive design.<br><br>
 
 # 💻 Tech:
