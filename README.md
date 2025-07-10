@@ -3,7 +3,7 @@
   <p>A compelling description of your website.</p>
   <a href="#" style="background-color: blue; color: white; padding: 10px 20px; text-decoration: none;">Learn More</a>
 </div>
-
+<br><br>
 
 Hi Everyone! I’m a versatile Full-Stack Developer, Python Developer, UX and Web Designer. I build responsive, user-focused websites and apps that combine clean code with intuitive design.<br><br>
 
