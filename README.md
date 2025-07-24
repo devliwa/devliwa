@@ -18,7 +18,6 @@ Hi Everyone! I’m a versatile Full-Stack Developer, Python Developer, UX and We
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### My Python Projects
--[ 
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
