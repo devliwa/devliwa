@@ -1,18 +1,19 @@
-# 👋 Welcome to My Projects
+# 👋 Welcome to My GitHub 
 
-Hi, I’m **Charles Liwa** — an aspiring full-stack developer and cybersecurity enthusiast.  
-This page is designed like a mini website, where you can explore my projects 🚀  
+Hi, I’m **Charles Liwa** — an aspiring full-stack developer.  
+This page is designed like a mini website, where you can explore my projects 
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects  
 
-### 🛒 E-Commerce Website  
-[🔗 View Repo](https://github.com/yourusername/ecommerce-project)  
-Custom-built e-commerce platform inspired by Gymshark.  
-**Tech Stack:** Next.js, Node.js, Tailwind CSS, MongoDB  
+### Basic Javascript Projects
 
-![E-Commerce Preview](https://via.placeholder.com/600x300.png?text=E-Commerce+Website+Screenshot)
+These projects showcase my understanding of fundamental JavaScript concepts like DOM manipulation, events, and data handling.  
+They include small but practical apps such as a color flipper, counter, and to-do list.  
+Each project is designed to strengthen problem-solving skills and build a solid foundation for advanced development.  
+
+[01 Palette Switcher](https://github.com/devliwa/01-palette-switcher)
 
 ---
 
