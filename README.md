@@ -11,24 +11,14 @@ I’m **Charles Liwa** an aspiring full-stack developer. This page is designed l
 These projects demonstrate my understanding of fundamental JavaScript concepts such as DOM manipulation, events, and data handling through small but practical apps like a color flipper, counter, and to-do list, all designed to strengthen problem-solving skills and build a solid foundation for advanced development.  
 
 [01 Palette Switcher](https://github.com/devliwa/01-palette-switcher)
+[02 Score](https://github.com/devliwa/02-score/tree/main)
 
 ---
 
-### 📊 Finance Education Hub  
-[🔗 View Repo](https://github.com/yourusername/finance-website)  
-A Canadian-focused finance education platform.  
-**Tech Stack:** HTML, CSS, Python (Flask), SQLite  
-
-![Finance Site Preview](https://via.placeholder.com/600x300.png?text=Finance+Education+Hub+Screenshot)
 
 ---
 
-### 🧹 Cleaning Services Website  
-[🔗 View Repo](https://github.com/yourusername/cleaning-site)  
-Professional site for a cleaning business.  
-**Tech Stack:** React, Tailwind CSS  
 
-![Cleaning Site Preview](https://via.placeholder.com/600x300.png?text=Cleaning+Services+Website+Screenshot)
 
 ---
 
@@ -43,19 +33,13 @@ Professional site for a cleaning business.
 
 ---
 
-## 📊 GitHub Stats  
 
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contact Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - 🐦 [Twitter / X](https://twitter.com/yourprofile)  
-- 📧 Email: yourname@email.com  
+- 📧 Email: charles.liwa@outlook.com  
 
 ---
 
