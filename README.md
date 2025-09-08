@@ -13,6 +13,7 @@ These projects demonstrate my understanding of fundamental JavaScript concepts s
 - [01 Palette Switcher Project](https://github.com/devliwa/01-palette-switcher)
 - [02 Score Project](https://github.com/devliwa/02-score/tree/main)
 - [03 Reviews Project](https://github.com/devliwa/03-reviews)
+- [04 Navbar Project](https://github.com/devliwa/04-navbar)
 
 ---
 
