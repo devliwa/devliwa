@@ -18,6 +18,8 @@ These projects demonstrate my understanding of fundamental JavaScript concepts s
 - [06 Modal Project](https://github.com/devliwa/06-modal/tree/main)
 - [07 Questions Project](https://github.com/devliwa/07-questions/tree/main)
 - [08 Menu Project](https://github.com/devliwa/08-menu)
+- [09 Video Project](https://github.com/devliwa/09-video)
+- [10 Scroll Project](https://github.com/devliwa/10-scroll)
 
 ---
 
