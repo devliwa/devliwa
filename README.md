@@ -1,7 +1,6 @@
 # Welcome to My GitHub 
 
-Hi, I’m **Charles Liwa** an aspiring full-stack developer.  
-This page is designed like a mini website, where you can explore my projects 
+I’m **Charles Liwa** an aspiring full-stack developer. This page is designed like a mini website, where you can explore my projects 
 
 ---
 
