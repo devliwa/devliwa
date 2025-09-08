@@ -48,4 +48,4 @@ These projects demonstrate my understanding of fundamental JavaScript concepts s
 
 ---
 
-⭐️ *If you like my work, consider giving my repositories a star!*  
+*If you like my work, consider giving my repositories a star!*  
