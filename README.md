@@ -65,7 +65,7 @@ These projects demonstrate my understanding of fundamental JavaScript concepts s
 ## 📫 Contact Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🐦 [Twitter / X](https://twitter.com/yourprofile)  
+- 🐦 [Twitter / X](https://twitter.com/devliwa1)  
 - 📧 Email: charles.liwa@outlook.com  
 
 ---
