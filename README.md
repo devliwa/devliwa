@@ -1,11 +1,11 @@
 # Welcome to My GitHub 
 
-I’m **Charles Liwa** an aspiring full-stack developer. This page is designed like a mini website, where you can explore my projects 
+I’m **Charles Liwa** an aspiring full-stack developer. This page is designed like a mini website, where you can explore my projects.
 
 ---
 
 ##  Featured Projects  
-
+----------
 ### Javascript Basic Projects
 
 These projects demonstrate my understanding of fundamental JavaScript concepts such as DOM manipulation, events, and data handling through small but practical apps like a color flipper, counter, and to-do list, all designed to strengthen problem-solving skills and build a solid foundation for advanced development.  
