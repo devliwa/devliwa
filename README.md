@@ -17,6 +17,7 @@ These projects demonstrate my understanding of fundamental JavaScript concepts s
 - [05 Sidebar Project](https://github.com/devliwa/05-sidebar)
 - [06 Modal Project](https://github.com/devliwa/06-modal/tree/main)
 - [07 Questions Project](https://github.com/devliwa/07-questions/tree/main)
+- [08 Menu Project](https://github.com/devliwa/08-menu)
 
 ---
 
