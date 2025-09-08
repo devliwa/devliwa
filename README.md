@@ -9,9 +9,7 @@ This page is designed like a mini website, where you can explore my projects
 
 ### Basic Javascript Projects
 
-These projects showcase my understanding of fundamental JavaScript concepts like DOM manipulation, events, and data handling.  
-They include small but practical apps such as a color flipper, counter, and to-do list.  
-Each project is designed to strengthen problem-solving skills and build a solid foundation for advanced development.  
+These projects demonstrate my understanding of fundamental JavaScript concepts such as DOM manipulation, events, and data handling through small but practical apps like a color flipper, counter, and to-do list, all designed to strengthen problem-solving skills and build a solid foundation for advanced development.  
 
 [01 Palette Switcher](https://github.com/devliwa/01-palette-switcher)
 
