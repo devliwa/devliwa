@@ -24,9 +24,11 @@ I’m **Charles Liwa** an aspiring full-stack developer.
 
 ## Contact Me  
 
+- [Outlook](https://outlook.com/charles.liwa@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [X](https://x.com/devliwa1)  
-- [Outlook](https://outlook.com/charles.liwa@outlook.com)  
+- [Twitter/X](https://x.com/devliwa1)
+- [Instagram ]()
+    
 
 ---
 
