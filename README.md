@@ -6,48 +6,8 @@ I’m **Charles Liwa** an aspiring full-stack developer.
 
 ##  Featured Projects  
 
-### Javascript Basic Projects
+- [Javascript Basic Projects](https://github.com/devliwa/javascript-basic-projects)
 
-These projects demonstrate my understanding of fundamental JavaScript concepts such as DOM manipulation, events, and data handling through small but practical apps like a color flipper, counter, and to-do list, all designed to strengthen problem-solving skills and build a solid foundation for advanced development.  
-
-- [01 Palette Switcher Project](https://github.com/devliwa/01-palette-switcher)
-- [02 Score Project](https://github.com/devliwa/02-score/tree/main)
-- [03 Reviews Project](https://github.com/devliwa/03-reviews)
-- [04 Navbar Project](https://github.com/devliwa/04-navbar)
-- [05 Sidebar Project](https://github.com/devliwa/05-sidebar)
-- [06 Modal Project](https://github.com/devliwa/06-modal/tree/main)
-- [07 Questions Project](https://github.com/devliwa/07-questions/tree/main)
-- [08 Menu Project](https://github.com/devliwa/08-menu)
-- [09 Video Project](https://github.com/devliwa/09-video)
-- [10 Scroll Project](https://github.com/devliwa/10-scroll)
-- [11 Tabs](https://github.com/devliwa/11-tabs)
-- [12 Countdown Timer Project](https://github.com/devliwa/12-countdown-timer)
-- [13 Lorem Ipsum Project](https://github.com/devliwa/13-lorem-ipsum)
-- [14 Grocery List Project](https://github.com/devliwa/14-grocery-list)
-- [15 Slider Project](https://github.com/devliwa/15-slider)
-- [16 Counter Project](https://github.com/devliwa/16-counter)
-- [17 Gallery Project](https://github.com/devliwa/17-gallery)
-- [18 Numbers Project](https://github.com/devliwa/18-numbers)
-- [19 Dark Mode Project](https://github.com/devliwa/19-dark-mode)
-- [20 Filters Project](https://github.com/devliwa/20-filters)
-- [21 Dad Jokes Project](https://github.com/devliwa/21-dad-jokes)
-- [22 Products Project](https://github.com/devliwa/22-products)
-- [23 Random User Project](https://github.com/devliwa/23-random-user)
-- [24 Cocktails Project](https://github.com/devliwa/24-cocktails)
-- [25 Slider Project](https://github.com/devliwa/25-slider)
-- [26 Stripe Submenus Project](https://github.com/devliwa/26-stripe-submenus)
-- [27 Pagination Project](https://github.com/devliwa/27-pagination)
-- [28 Wikipedia Project](https://github.com/devliwa/28-wikipedia)
-- [29 Comfy Store](https://github.com/devliwa/29-comfy-store)
-
----
-
-
----
-
-
-
----
 
 ## 🛠️ Skills  
 
