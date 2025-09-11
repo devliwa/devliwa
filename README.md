@@ -4,7 +4,7 @@ I’m **Charles Liwa** an aspiring full-stack developer.
 
 ---
 
-##  Featured Projects  
+##  My Portfolio 
 
 - [Javascript Basic Projects](https://github.com/devliwa/javascript-basic-projects)
 
