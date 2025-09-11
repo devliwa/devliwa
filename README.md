@@ -9,7 +9,7 @@ I’m **Charles Liwa** an aspiring full-stack developer.
 - [Javascript Basic Projects](https://github.com/devliwa/javascript-basic-projects)
 
 
-## 🛠️ Skills  
+## Skills  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,11 +22,11 @@ I’m **Charles Liwa** an aspiring full-stack developer.
 
 
 
-## 📫 Contact Me  
+## Contact Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🐦 [Twitter / X](https://twitter.com/devliwa1)  
-- 📧 Email: charles.liwa@outlook.com  
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [Twitter / X](https://twitter.com/devliwa1)  
+- [Email](charles.liwa@outlook.com)  
 
 ---
 
