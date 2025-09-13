@@ -1,6 +1,5 @@
 # Welcome to My GitHub 
 
-I’m **Charles Liwa** an aspiring full-stack developer. 
 
 ---
 
