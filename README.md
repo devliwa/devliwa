@@ -6,7 +6,13 @@
 ##  My Portfolio 
 
 - [Javascript Basic Projects](https://github.com/devliwa/javascript-basic-projects)
-- [Node.js projects](https://github.com/devliwa/node.js-projects)
+- [Node.js with Express.js Projects](https://github.com/devliwa/node.js-projects)
+- [Application Programming Interfaces(APIs) Projects]()
+- [Databases with PostgreSQL Projects]()
+- [Authentication and Security Projects]()
+- [React.js Projects]()
+- [Decentralised Finance Projects]()
+  
 
 
 ## Skills  
