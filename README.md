@@ -6,7 +6,7 @@
 ##  My Portfolio 
 
 - [Javascript Basic Projects](https://github.com/devliwa/javascript-basic-projects)
-- [Node.js projects]()
+- [Node.js projects](https://github.com/devliwa/node.js-projects)
 
 
 ## Skills  
