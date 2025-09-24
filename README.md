@@ -7,7 +7,7 @@
 
 - [Javascript Basic Projects](https://github.com/devliwa/javascript-basic-projects)
 - [Node.js with Express.js Projects](https://github.com/devliwa/node.js-projects)
-- [Application Programming Interfaces(APIs) Projects]()
+- [Application Programming Interfaces(APIs) Projects](https://github.com/devliwa/APIs-projects)
 - [Databases with PostgreSQL Projects]()
 - [Authentication and Security Projects]()
 - [React.js Projects]()
