@@ -3,7 +3,7 @@
 
 ---
 
-##  My Portfolio 
+##  My Journey 
 
 - [HTML-CSS-JavaScript Projects](https://github.com/devliwa/html-css-js-projects)
 - [Node.js with Express.js Projects](https://github.com/devliwa/node.js-projects)
