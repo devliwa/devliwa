@@ -5,7 +5,7 @@
 
 ##  My Portfolio 
 
-- [HTML-CSS-JavaScript Projects](https://github.com/devliwa/javascript-basic-projects)
+- [HTML-CSS-JavaScript Projects](https://github.com/devliwa/html-css-js-projects)
 - [Node.js with Express.js Projects](https://github.com/devliwa/node.js-projects)
 - [Application Programming Interfaces(APIs) Projects](https://github.com/devliwa/APIs-projects)
 - [Databases with PostgreSQL Projects]()
@@ -22,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 ---
 
