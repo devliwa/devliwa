@@ -30,7 +30,6 @@
 
 ## Contact Me  
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - [Twitter/X](https://x.com/devliwa1)
 
     
