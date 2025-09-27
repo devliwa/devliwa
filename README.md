@@ -13,7 +13,8 @@
 - [React.js Projects]()
 - [Decentralised Finance Projects]()
 - [Python Developer]()
-- [iOS App Developer]()  
+- [iOS App Developer]()
+- [Figma UI UX Design]()
   
 
 
