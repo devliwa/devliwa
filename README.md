@@ -12,6 +12,8 @@
 - [Authentication and Security Projects]()
 - [React.js Projects]()
 - [Decentralised Finance Projects]()
+- [Python Developer]()
+- [iOS App Developer]()  
   
 
 
