@@ -12,7 +12,7 @@
 - [Authentication and Security Projects]()
 - [React.js Projects]()
 - [Decentralised Finance Projects]()
-- [Python Developer]()
+- [Python Developer](https://github.com/devliwa/python-developer)
 - [iOS App Developer]()
 - [Figma UI UX Design]()
   
