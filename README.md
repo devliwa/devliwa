@@ -5,16 +5,16 @@
 
 ##  My Journey 
 
-- [HTML-CSS-JavaScript Projects](https://github.com/devliwa/html-css-js-projects)
-- [Node.js with Express.js Projects](https://github.com/devliwa/node.js-projects)
-- [Application Programming Interfaces(APIs) Projects](https://github.com/devliwa/APIs-projects)
-- [Databases with PostgreSQL Projects]()
-- [Authentication and Security Projects]()
-- [React.js Projects]()
-- [Decentralised Finance Projects]()
-- [Python Projects](https://github.com/devliwa/python-developer)
-- [iOS App Projects]()
-- [Figma UI UX Design Projects]()
+- [HTML-CSS-JavaScript](https://github.com/devliwa/html-css-js-projects)
+- [Node.js with Express.js](https://github.com/devliwa/node.js-projects)
+- [Application Programming Interfaces(APIs)](https://github.com/devliwa/APIs-projects)
+- [Databases with PostgreSQL]()
+- [Authentication and Security]()
+- [React.js]()
+- [Decentralised Finance]()
+- [Python](https://github.com/devliwa/python-developer)
+- [iOS App]()
+- [Figma UI UX Design]()
   
 
 
