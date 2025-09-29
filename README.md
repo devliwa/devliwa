@@ -8,7 +8,7 @@
 - [HTML-CSS-JavaScript](https://github.com/devliwa/html-css-js-projects)
 - [Node.js with Express.js](https://github.com/devliwa/node.js-projects)
 - [Application Programming Interfaces(APIs)](https://github.com/devliwa/APIs-projects)
-- [Databases with PostgreSQL]()
+- [Databases with PostgreSQL](https://github.com/devliwa/Databases-with-PostgreSQL)
 - [Authentication and Security]()
 - [React.js]()
 - [Decentralised Finance]()
