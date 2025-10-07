@@ -11,9 +11,9 @@
 - [Databases with PostgreSQL](https://github.com/devliwa/Databases-with-PostgreSQL)
 - [Authentication and Security]()
 - [React.js](https://github.com/devliwa/React.js)
-- [Decentralised Finance]()
+<!-- [Decentralised Finance]()-->
 - [Python](https://github.com/devliwa/python-developer)
-- [iOS App]()
+<!-- - [iOS App]() -->
 - [Figma UI UX Design]()
   
 
