@@ -9,7 +9,7 @@
 - [Node.js with Express.js](https://github.com/devliwa/node.js-projects)
 - [Application Programming Interfaces(APIs)](https://github.com/devliwa/APIs-projects)
 - [Databases with PostgreSQL](https://github.com/devliwa/Databases-with-PostgreSQL)
-- [Authentication and Security]()
+- [Authentication and Security](https://github.com/devliwa/authentication-and-security)
 - [React.js](https://github.com/devliwa/React.js)<!-- [Decentralised Finance]()-->
 - [Python](https://github.com/devliwa/python-developer)<!-- - [iOS App]() -->
 - [Figma UI UX Design]()
