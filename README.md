@@ -12,7 +12,7 @@
 - [Authentication and Security](https://github.com/devliwa/authentication-and-security)
 - [React.js](https://github.com/devliwa/React.js)<!-- [Decentralised Finance]()-->
 - [Python](https://github.com/devliwa/python-developer)<!-- - [iOS App]() -->
-- [Figma]()
+- [Figma](https://github.com/devliwa/Figma)
 - [Business English](https://github.com/devliwa/business-english)
 - [CCNA prep course](https://github.com/devliwa/CCNA-prep-course)
   
