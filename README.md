@@ -14,6 +14,7 @@
 - [Python](https://github.com/devliwa/python-developer)<!-- - [iOS App]() -->
 - [Figma]()
 - [Business English](https://github.com/devliwa/business-english)
+- [CCNA prep course](https://github.com/devliwa/CCNA-prep-course)
   
 
 
