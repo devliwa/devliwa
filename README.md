@@ -11,7 +11,7 @@
 - [Databases with PostgreSQL](https://github.com/devliwa/Databases-with-PostgreSQL)
 - [Authentication and Security](https://github.com/devliwa/authentication-and-security)
 - [React.js](https://github.com/devliwa/React.js)<!-- [Decentralised Finance]()-->
-- [Learn Python](https://github.com/devliwa/learn-python)<!-- - [iOS App]() -->
+- [Python](https://github.com/devliwa/python)<!-- - [iOS App]() -->
 - [Learn Figma](https://github.com/devliwa/Learn-Figma)
 - [Business English](https://github.com/devliwa/business-english)
 <!-- - [CCNA prep course](https://github.com/devliwa/CCNA-prep-course) -->
