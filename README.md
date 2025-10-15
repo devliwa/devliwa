@@ -26,10 +26,3 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
---- <!-- ## Contact Me  - [Twitter/X](https://x.com/devliwa1) -->
-
-
----
-
-*If you like my work, consider giving my repositories a star!*  
