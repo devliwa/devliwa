@@ -13,8 +13,7 @@
 - [React.js](https://github.com/devliwa/React.js)<!-- [Decentralised Finance]()-->
 - [Python](https://github.com/devliwa/python)<!-- - [iOS App]() -->
 - [Figma](https://github.com/devliwa/figma)
-- [Business English](https://github.com/devliwa/business-english)
-- [CCNA 200-301 v1.1](https://github.com/devliwa/ccna) 
+- [Business English](https://github.com/devliwa/business-english)<!-- [CCNA 200-301 v1.1](https://github.com/devliwa/ccna) -->
   
 
 
