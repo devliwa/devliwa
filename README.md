@@ -12,7 +12,7 @@
 
 ---
 
-##  My Journey 
+##  Learning Journey 
 
 - [HTML-CSS-JavaScript](https://github.com/devliwa/html-css-js-projects)
 - [Node.js with Express.js](https://github.com/devliwa/node.js-projects)
