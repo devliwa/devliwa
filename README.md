@@ -7,6 +7,7 @@
 - [Blog Web Application]()
 - [Use a Public API]()
 - [Book Notes]()
+- [React Projects]()
 
 
 ---
