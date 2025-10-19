@@ -6,7 +6,7 @@
 - [Personal Site]()
 - [Blog Web Application]()
 - [Use a Public API]()
-- [Book Notes]()
+- [Book Notes](https://github.com/devliwa/Mind-Note)
 - [React Projects](https://github.com/devliwa/React-Projects)
 
 
