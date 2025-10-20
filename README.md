@@ -5,7 +5,7 @@
 
 - [Personal Site]()
 - [Blog Web Application]()
-- [Use a Public API]()
+- [Use a Public API](https://github.com/devliwa/Weather-App)
 - [Book Notes](https://github.com/devliwa/Mind-Note)
 - [React Projects](https://github.com/devliwa/React-Projects)
 
